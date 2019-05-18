@@ -5,7 +5,7 @@
     "src": "next.config.js",
     "use": "@now/next"
   }],
-  "alisa": "kathryntogo.now.sh",
+  "alias": "kathryntogo.now.sh",
   "routes": [{
     "src": "/_next/static/(?:[^/]+/pages|chunks|runtime)/.+",
     "headers": {
