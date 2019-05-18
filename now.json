@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "katheryntogo",
+  "name": "kathryntogo",
   "builds": [{
     "src": "next.config.js",
     "use": "@now/next"
