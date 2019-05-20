@@ -14,9 +14,9 @@ export default () => (
       For the last 3 years, I have been teaching English as a Second Language in Woodbridge, Virginia
       and been a member of Pillar Church of Dumfries. In April, JJ Alderman came to Pillar Church and
       shared about how he and his family are serving in Togo. The Aldermans have been working in church
-      planting and developing leaders among the Gen and Watch unreached people groups for the
+      planting and developing leaders among the Gen and Watchi unreached people groups for the
       last 10 years (if you would like to read about what God is doing through the Aldermans,
-      check it out <a href='https://converge.org/missionary/jj-melissa-alderman' target='_blank'>here</a>.
+      check it out <a href='https://converge.org/missionary/jj-melissa-alderman' target='_blank'>here</a>).
       JJ shared about their desire for someone to serve in Togo for the upcoming year as a homeschool
       teacher for their children and the children of another missionary family. After praying and
       seeking counsel, I agreed to homeschool the missionary kids this upcoming year!
