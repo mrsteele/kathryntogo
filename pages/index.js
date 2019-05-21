@@ -3,6 +3,7 @@ import Head from 'next/head'
 export default () => (
   <main>
     <Head>
+      <title>Send Kathryn to Togo</title>
       <link href='https://fonts.googleapis.com/css?family=Roboto&display=swap' rel='stylesheet' />
     </Head>
 
