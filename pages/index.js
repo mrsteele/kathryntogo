@@ -62,6 +62,15 @@ export default () => (
       <a className='btn' href='https://pillardumfries.churchcenter.com/giving/to/kathryn-ayers-togo' target='_blank'>Donate Now</a>
     </footer>
 
+    <p>
+      You can also give by check. Write your check to "Pillar Church" and put my name either in the memo line or on the attached notes. Mail your check to:
+      <address>
+        Pillar Church<br />
+        PO Box 622<br />
+        Dumfries, VA 22026
+      </address>
+    </p>
+
     <style jsx global>{`
 html, body {
   font-size: 18px;
@@ -104,6 +113,10 @@ a:hover {
 
 img {
   max-width: 100%;
+}
+
+address {
+  margin-top: 1em;
 }
 
 @media screen and (min-width: 728px) {
